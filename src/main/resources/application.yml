@@ -7,3 +7,4 @@ spring:
   profiles: cloud
 server:
   port: 0
+

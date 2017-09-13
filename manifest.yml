@@ -1,0 +1,6 @@
+---
+applications:
+- name: library-backend
+  path: build/libs/library-backend-1.0.0-SNAPSHOT.jar
+  env:
+    SPRING_PROFILES_ACTIVE: cloud
