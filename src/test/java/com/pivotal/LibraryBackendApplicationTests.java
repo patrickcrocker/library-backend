@@ -12,7 +12,7 @@ public class LibraryBackendApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		assert true;
+		assert false;
 	}
 
 }
