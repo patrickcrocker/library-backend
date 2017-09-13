@@ -1,0 +1,9 @@
+---
+server:
+  port: 8085
+
+---
+spring:
+  profiles: cloud
+server:
+  port: 0
