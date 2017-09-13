@@ -1,4 +1,4 @@
-package com.pivotal;
+package io.pivotal;
 
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
